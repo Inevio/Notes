@@ -1,0 +1,64 @@
+
+<style>
+*{
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+.sidebar{
+  float: left;
+  width: 200px;
+  height: 100%;
+  background: #eaeaea;
+  border-right: 1px solid #bebebe;
+}
+
+.sidebar button{
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid #dadada;
+  background: #09f;
+  color: #fff;
+  width: 100%;
+  padding: 5px 10px;
+  outline: none;
+}
+
+.sidebar-note{
+  box-sizing: border-box;
+  border-bottom: 1px solid #dadada;
+  padding: 5px 10px;
+}
+
+textarea{
+  box-sizing: border-box;
+  width: calc( 100% - 201px ); /* 200px sidebar's width + 1px sidebar's border-right */
+  height: 100%;
+  border: none;
+  padding: 10px;
+  resize: none;
+  outline: none;
+}
+</style>
+
+<body></body>
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+
+<script src="./classes/App.js"></script>
+<script src="./classes/Sidebar.js"></script>
+<script src="./classes/SidebarNote.js"></script>
+<script src="./classes/Note.js"></script>
+
+<script>
+
+  var app = new App()
+
+  app.init()
+
+</script>
