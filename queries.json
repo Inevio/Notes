@@ -1,0 +1,9 @@
+
+{
+
+    "createNote"    : "INSERT INTO notes SET workspace = @userId, content = '', updated = ?",
+    "updateNote"    : "UPDATE notes SET content = ?, updated = ? WHERE id = ? LIMIT 1",
+    "retrieveNotes" : "SELECT * FROM notes WHERE workspace = @userId",
+    "removeNote"    : "DELETE FROM notes WHERE id = ? LIMIT 1"
+
+}

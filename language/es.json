@@ -1,0 +1,188 @@
+
+{
+
+    "worldHeader"  : {
+        "members"       : "miembros -",
+        "member"        : "miembro -",
+        "invite"        : "Invitar",
+        "chatButton"   : "Chat grupal",
+        "folderButton" : "Carpeta mundo",
+        "searchPost"  : "Buscar post..."
+    },
+
+    "cardsList" : {
+        "somethingToSay" : "Cuéntanos algo...",
+        "noPostToShow"  : "No hay posts para mostrar"
+    },
+
+    "worldUsers" : {
+        "invitePeople"  : "Invitar gente",
+        "kickPeople"    : "Administrar miembros",
+        "listPeople"    : "Miembros",
+        "to"            : "a",
+        "from"          : "de",
+        "kickOut"       : "Expulsar"
+    },
+
+    "search"  : "Busca aquí...",
+    "cancel"  : "Cancelar",
+    "save"    : "Guardar",
+    "edit"    : "Editar",
+    "send"    : "Enviar",
+    "lastDay" : "Ayer",
+
+    "publics"       : "Mundos públicos",
+    "privates"      : "Mundos privados",
+    "explore"       : "Explorar",
+    "inviteUser"    : "Invitar usuario",
+    "invite"        : "Invitar",
+    "more"          : "más",
+    "seeAll"        : "ver todos",
+    "followers"     : "seguidores",
+    
+    "search"        : "Buscar...",
+    "updatedFile"   : "ha actualizado un arhivo",
+    "comments"      : "Comentarios",
+    "comfirmDeletePost" : "¿Está seguro que quiere eliminar el post?",
+    "comfirmDeleteComment" : "¿Está seguro que quiere eliminar el comentario?",
+    "deletePost"    : "Borrar post",
+    "following"     : "Siguiendo",
+    "writeComment"  : "Escribe tu comentario aquí...",
+    "editWorld"     : "Editar mundo",
+    "unfollowWorld" : "Salir del mundo",
+    "exit"          : "Salir",
+    "confirmExit"   : "¿Seguro que desea salir del mundo?",
+    "users"         : "Usuarios",
+    "posts"         : "Eventos",
+    "files"         : "Ficheros",
+    "worldCreation" : "Creación de mundo",
+    "worldEdit"     : "Edición de mundo",
+    "accept"        : "Aceptar",
+    "worldCreated"  : "Mundo creado",
+    "postCreated"   : "Evento creado",
+    "hasCreated"    : "ha creado un",
+    "world"         : "mundo",
+    "post"          : "evento",
+    "comment"       : "comentario",
+    "selectWorld"   : "Selecciona un mundo",
+    "hasComment"    : "ha comentado un",
+    "noPosts"       : "No hay eventos que mostrar",
+    "welcome"       : "Bienvenido a Cosmos",
+    "intro"         : "Cosmos es la aplicación perfecta para relacionarte con todos tus mundos (tus compañeros, tus amigos, tu familia...)",
+    "introMobile"   : "Cosmos es la aplicación perfecta para relacionarte con todos tus mundos<br>(tus compañeros, tus amigos, tu familia...)",
+    "intro2"        : "Crea un mundo e invita a tus contactos. Cada mundo tendrá:",
+    "feature1"      : "Un <i>chat</i> grupal para hablar entre vosotros",
+    "feature2"      : "Una <i>carpeta</i> donde compartir los archivos",
+    "feature3"      : "Un <i>muro</i> donde aparecerán las novedades",
+    "start"         : "Empezar",
+    "createWorld"   : "Crear nuevo mundo",
+    "reply"         : "Responder",
+    "preview"       : "Vista previa",
+    "tend"          : "Tendencias",
+    "follow"        : "Entrar",
+    "stepa"         : "Paso 1 de 2",
+    "stepb"         : "Paso 2 de 2 - (Opcional) Añade alguna información adicional acerca del mundo",
+    "worldName"     : "Nombre del mundo",
+    "avatarBack"    : "Avatar",
+    "changeBack"    : "Cambiar fondo",
+    "worldDesc"     : "Descripción (opcional)",
+    "privacy"       : "Privacidad",
+    "publicWorld"   : "Mundo público",
+    "privateWorld"  : "Mundo privado",
+    "publicDesc"    : "Este mundo podrá ser encontrado mediante 'explorar', todo el mundo podrá buscarlo y unirse sin necesidad de invitación.",
+    "privateDesc"   : "Este mundo no podrá ser encontrado mediante 'explorar', solo se podrá acceder a él mediante una invitación de algún miembro del mundo.",
+    "public"        : "Público",
+    "private"       : "Privado",
+    "newPost"       : "Nuevo post",
+    "for"           : "para",
+    "uploadInevio"  : "Añadir desde horbito",
+    "uploadPC"      : "Subir desde el PC",
+    "publishPost"     : "Publicar post",
+    "publishChanges"  : "Publicar cambios",
+
+    "createWorldShort"  : "Crear mundo",
+    "notAllowedDeletePost"    : "No tienes permisos para borrar este post",
+    "createNewPost" : "Crear nuevo post",
+    "noInfo"        : "Es obligatorio escribir un título",
+    "uploading"     : "Subiendo...",
+    "editPost"      : "Editar post",
+
+    "bannerNewPost"       : "Nuevo post en ",
+    "bannerNewComment"    : "Nuevo comentario en ",
+    "bannerReplyPost"     : "ha comentado tu post",
+    "bannerReplyComment"  : "te ha respondido",
+
+    "writeTitle"          : "Escribe un título para la publicación",
+    "title"               : "Título...",
+    "description"         : "Descripción...",
+    "writeDescription"    : "Escribe una descripción...",
+    "addFiles"            : "Añadir archivos",
+    "editingOne"          : "Ya estás editando otro post. Guarda o cancela el anterior para poder editar este.",
+
+    "searchPost"          : "Buscar post",
+    "viewInfo"            : "Ver información",
+    "abandonWorld"        : "Abandonar mundo",
+
+    "postCreated"         : "ha creado un nuevo post",
+    "fileAdded"           : "ha añadido un archivo",
+    "filesAdded"          : "ha añadido varios archivos",
+    "fileModified"        : "ha modificado un archivo",
+    "filesModified"       : "ha modificado varios archivos",
+    "fileRemoved"         : "ha borrado un archivo",
+    "filesRemoved"        : "ha borrado varios archivos",
+
+    "hadAddedFile"        : "Has añadido un archivo nuevo a",
+    "hadAddedFiles"       : "Has añadido varios archivos nuevos a",
+    "hadModifiedFile"     : "Has modificado un archivo de",
+    "hadRemovedFile"      : "Has eliminado un archivo de",
+    "hadRemovedFiles"     : "Has eliminado varios archivos de",
+    "wantToPublish"       : "¿Quieres publicarlo en Cosmos?",
+
+    "notWorking"          : "Esta funcionalidad actualmente está en desarrollo, en breves estará disponible ;)",
+
+
+    "omit"                : "Omitir",
+    "at"                  : "a las",
+
+    "yourWorlds"          : "Tus mundos",
+
+    "inviteByMail"        : "Invitar por correo",
+    "selectFile"          : "Selecciona el archivo",
+    "inviteByMailDesc"    : "Introduce el email de todas las personas que quieras que se unan a horbito para poder invitarles al mundo.",
+    "addMail"             : "+ Añadir más correos",
+    "share"               : "Enviar",
+    "mailExample"         : "ejemplo@mail.com",
+
+    "invitationSentTitle"    : "Invitaciones enviadas",
+    "invitationSentSubtitle" : "Tus invitaciones están de camino!",
+
+    "noPublicWorlds"        : "¡Hola! Me temo que las cuentas de demo no pueden unirse a mundos públicos, crea ya tu cuenta para poder hacerlo.",
+
+    "worldTitleMandatory"   : "Los mundos deben llevar título, por favor introduce uno.",
+
+    "me"        : "Yo",
+    "download" : "Descargar",
+    "openFolder" : "Abrir carpeta",
+
+    "onboarding" : {
+        "arrow"      : "Aquí colaboras con tus compañeros"
+    },
+
+    "activity"      : "Actividad",
+    "hasComment"    : "ha comentado en tu publicación",
+    "hasComment2"   : "ha comentado una publicación del mundo",
+    "hasComment3"   : "ha respondido a tu comentario",
+    "in"            : "en",
+    "markAsRead"    : "Marcar todas como leídas",
+
+    "fileCanNotOpen"  : "horbito no puede abrir este fichero en el dispositivo",
+
+    "next"  : "Siguiente",
+    "previous"  : "Anterior",
+
+    "loading" : "Cargando",
+    "delete"  : "Borrar",
+    "backToTimeline" : "Volver al muro",
+    "addedToWorld" : "te ha añadido al mundo"
+
+  }
